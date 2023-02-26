@@ -1,0 +1,128 @@
+
+body{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(0, 6, 8);
+    background-image: url('images/hintergrund1.jpeg');
+
+}
+
+
+.home
+{
+    display: flex;
+    width: 1120px;
+    margin:  50px 230px 10px 90px;
+
+}
+.home-img img
+{
+    width:400px;
+    height:300px;
+    border-radius: 50px;
+    margin-top: 75px;
+  
+}
+.txt
+{
+ padding: 100px;
+ /*text-align: center;*/
+}
+.features 
+{
+   margin-bottom: 48px;
+    max-width: 1180px;
+}
+
+.features h2
+{
+    margin-left: 190px;
+    margin-bottom: 16px;
+}
+
+
+.features ul
+{
+    margin-left: 150px;
+    display: flex;
+    list-style: none;
+    align-items: center;
+    margin-bottom: 24px;
+    gap: 100px;
+}
+
+.customers{
+    max-width: 960px;
+    max-height: 223px;
+    display: flex;
+    margin-left: 190px;
+}
+.customers img{
+    width: 300px;
+    height: 223px;
+    border-radius: 20px;
+}
+
+.details{
+    max-width: 613px;
+    max-height: 148px;
+    margin-left: 80px;
+}
+
+.details p{
+font-style: italic;
+}
+
+.third-page
+{
+    width: 960px;
+    height: 537px;
+    margin-left: 150px;
+    margin-bottom: 80px;
+}
+.third-page h2
+{
+padding: 35px;
+}
+.chairs img 
+{
+width: 201px;
+height: 186px;
+border-radius: 20px;
+
+}
+
+.chairs 
+{
+    display: flex;
+   gap: 120px;
+}
+
+.chairs li{
+    list-style: none
+}
+
+.advantage li
+{
+    margin-bottom: 24px;
+    margin-left: -20px;
+}
+
+.chairs h3
+{
+    margin-left: 15px;
+}
+
+
+
+strong
+{
+margin : 0 100px 0px 20px;
+}
+
+
+
+
+
+
+
+
